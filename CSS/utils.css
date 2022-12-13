@@ -1,0 +1,11 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{padding: 12px 7px;
+     color: cornsilk;
+     background-color: darkkhaki;
+     border: dimgrey;
+     border-radius: 10px;
+}
